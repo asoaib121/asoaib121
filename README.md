@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/kGCK4Dw.png" alt="Shoaib QA Automation Banner" />
+  <img src="https://raw.githubusercontent.com/asoaib121/asoaib121/main/assets/github-profile-views-counter.png" alt="GitHub Views Counter" width="300"/>
 </p>
 
 
