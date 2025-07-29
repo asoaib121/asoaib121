@@ -7,7 +7,7 @@
 <h3 align="center">💻 QA Engineer | Automation Tester | Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asoaib121&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=asoaib121&color=0e75b6" alt="profile views" />
 </p>
 
 ---
