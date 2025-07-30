@@ -94,8 +94,8 @@
 
 ## 📌 Pinned Projects
 - ✅ Selenium Amazon Framework
+- ✅ Dockerized Selenium Grid
 - ✅ API Automation with Swagger Petstore
-- ✅ Dockerized Selenium Grid Demo
 - ✅ Jenkins CI/CD Pipeline Integration
 
 ---
