@@ -95,8 +95,8 @@
 ## 📌 Pinned Projects
 - ✅ Daraz_SeleniumTest
 - ✅ Amazon_Project_Selenium_Testing
-- ✅ Dockerized Selenium Grid
-- ✅ API Automation with Swagger Petstore
+- ✅ Amazon-Selenium-Testing-
+- ✅ RestAssured_API_Testing
 - ✅ Jenkins CI/CD Pipeline Integration
 
 ---
