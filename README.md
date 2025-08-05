@@ -108,7 +108,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soaib-ahmed-87863327a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-983704378)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.meshoaib121)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asoaib121@gmail.com)
 
