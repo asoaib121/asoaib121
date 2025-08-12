@@ -57,16 +57,9 @@
 | Maven | ![Maven](https://img.shields.io/badge/Maven-%23004080.svg?style=for-the-badge&logo=apache&logoColor=white) |
 | Docker | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) |
 | Jenkins | ![Jenkins](https://img.shields.io/badge/Jenkins-F46D01?style=for-the-badge&logo=jenkins&logoColor=white) |
+| Jira | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 | Git | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | IntelliJ IDEA | ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) |
-
----
-
-## 📜 Certifications & Learning
-- ✅ [x] Selenium with Java - Udemy (Ongoing)
-- ✅ [x] API Testing with Postman & RestAssured - YouTube/Udemy
-- ✅ [x] CI/CD with Jenkins - Planned
-- ✅ [x] Database Testing Basics - Planned
 
 ---
 
@@ -95,7 +88,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asoaib121&theme=radical" alt="Profile Summary" />
 </p>
 
-
 ---
 
 ## 📌 Pinned Projects
@@ -108,7 +100,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-983704378)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib121/)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.meshoaib121)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asoaib121@gmail.com)
 
