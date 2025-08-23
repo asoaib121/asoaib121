@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
-<h3 align="center">💻 QA Engineer | Automation Tester | Tech Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">💻 QA Engineer | Manual & Automation Tester | Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asoaib121&color=0e75b6" alt="profile views" />
