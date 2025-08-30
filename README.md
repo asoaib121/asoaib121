@@ -67,7 +67,6 @@
 
 ## 🎯 Career Goals
 - 🚀 Build a full SDET portfolio (Selenium + API + CI/CD + Monitoring)
-- 📊 Learn ELK Stack for Test Reporting & Monitoring
 - 📖 Share knowledge through GitHub, YouTube, and Blog
 
 ---
