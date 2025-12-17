@@ -77,11 +77,6 @@
 | Jira | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 | Git | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
----
-
-## 🎯 Career Goals
-- 🚀 Build a full SDET portfolio (Selenium + API + CI/CD + Monitoring)
-- 📖 Share knowledge through GitHub, YouTube, and Blog
 
 ---
 
