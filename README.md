@@ -4,31 +4,38 @@
 
 
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
-<h3 align="center">💻 QA Engineer | Manual & Automation Tester | Tech Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">🛡️ Aspiring Cybersecurity Engineer | Blue Team Enthusiast | Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asoaib121&color=0e75b6" alt="profile views" />
 </p>
 
 ---
-
 <p align="center">
-  🔍 A highly motivated <strong>QA Automation Engineer</strong> with hands-on experience in <strong>Selenium</strong>, <strong>API Testing</strong>, <strong>TestNG</strong>, and <strong>CI/CD pipelines</strong>.  
-  Passionate about writing clean, maintainable test code and delivering bug-free products.
+  🔍 A highly motivated <strong>Aspiring Cybersecurity Engineer</strong> actively practicing <strong>Blue Team</strong> and <strong>SOC fundamentals</strong> on platforms like <strong>TryHackMe</strong> .  
+  Passionate about strengthening defensive skills, threat detection, and hands-on security labs.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **Selenium + REST API Automation Projects**
-- 🌱 Learning **Database Testing** & **CI/CD with Jenkins**
-- 💬 Ask me about:  
-  `Selenium`, `TestNG`, `ExtentReports`, `API Testing`, `RestAssured`, `Docker`
-- 📫 Reach me at: **asoaib121@gmail.com**
+- 🛡️ Aspiring **Cybersecurity Engineer**  
+- 🔍 Actively practicing **Blue Team & SOC labs** on **TryHackMe**  
+- 🌱 Learning **Incident Response, SIEM, Network & Web Security**  
+- 📫 Contact: **asoaib121@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
+
+
+### 🛡️ Cybersecurity Practice
+- Practicing **Blue Team & SOC fundamentals**
+- Hands-on labs: SIEM, Log Analysis, Incident Response 
+
+| Platform | Badge |
+|--------|-------|
+| TryHackMe | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/asoaib121.png)](https://tryhackme.com/p/thunders201) |
 
 ### 👨‍💻 Programming Languages
 | Language | Badge |
@@ -44,11 +51,18 @@
 | HTML | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 | CSS | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
+
+### 🧪 Security & Testing Tools
+| Tool | Badge |
+|------|-------|
+| Nmap | ![Nmap](https://img.shields.io/badge/Nmap-C71A36?style=for-the-badge&logo=nmap&logoColor=white) |
+| Gobuster | ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=linux&logoColor=white) |
+| Metasploit | ![Metasploit](https://img.shields.io/badge/Metasploit-007396?style=for-the-badge&logo=metasploit&logoColor=white) |
+
+
 ### 🧪 Testing & Automation
 | Tool | Badge |
 |------|-------|
-|## 🛡️ Cybersecurity Practice |
-| [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/asoaib121.png)](https://tryhackme.com/p/thunders201) |
 | Selenium | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
 | TestNG | ![TestNG](https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=apache&logoColor=white) |
 | Postman | ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) |
@@ -62,8 +76,6 @@
 | Jenkins | ![Jenkins](https://img.shields.io/badge/Jenkins-F46D01?style=for-the-badge&logo=jenkins&logoColor=white) |
 | Jira | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 | Git | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| IntelliJ IDEA | ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) |
-| PyCharm | ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 
 ---
 
