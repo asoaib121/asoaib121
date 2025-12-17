@@ -47,6 +47,8 @@
 ### 🧪 Testing & Automation
 | Tool | Badge |
 |------|-------|
+|## 🛡️ Cybersecurity Practice |
+| [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/asoaib121.png)](https://tryhackme.com/p/thunders201) |
 | Selenium | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
 | TestNG | ![TestNG](https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=apache&logoColor=white) |
 | Postman | ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) |
