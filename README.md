@@ -35,7 +35,7 @@
 
 | Platform | Badge |
 |--------|-------|
-| TryHackMe | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/asoaib121.png)](https://tryhackme.com/p/thunders201) |
+| TryHackMe | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/asoaib121.png)](https://tryhackme.com/p/PhantomRoot404) |
 
 ### 👨‍💻 Programming Languages
 | Language | Badge |
