@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109432658/451025893-ed7b282c-473d-4c31-893c-cf80efb4f74d.png" alt="SOC Banner" width="100%" />
-</p>
-
+  <img src="https://imgs.search.brave.com/0YLUlopiM1wo2VYS3CVhiWWdliRMwRpTdqVR9T1218w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xNzQ1MDk4/LzM0NjAvaS80NTAv/ZGVwb3NpdHBob3Rv/c18zNDYwMTA3OS1z/dG9jay1waG90by1x/dWFsaXR5LWFzc3Vy/YW5jZS5qcGc"
+alt="SOC Banner"
+width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
