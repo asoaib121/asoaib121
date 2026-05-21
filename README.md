@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.prodia.xyz/ed7b282c-473d-4c31-893c-cf80efb4f74d.png" alt="Security Analysts Banner" width="100%" />
+  <img src="https://images.prodia.xyz/ed7b282c-473d-4c31-893c-cf80efb4f74d.png" alt="SOC Banner" width="100%" />
 </p>
 
 
