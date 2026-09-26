@@ -2,9 +2,10 @@
   <img src="./CyberSecurity.png" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-
+<!--
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center">🛡️ Aspiring Cybersecurity Engineer | Blue Team Enthusiast | Bangladesh 🇧🇩</h3>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asoaib121&color=0e75b6" alt="profile views" />
