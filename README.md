@@ -2,10 +2,15 @@
   <img src="./CyberSecurity.png" alt="Cybersecurity Banner" width="100%" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asoaib121"
        alt="Profile Views" />
 </p>
+
+-->
+
+![Profile Views](https://komarev.com/ghpvc/?username=asoaib121&color=0e75b6)
 
 
 
