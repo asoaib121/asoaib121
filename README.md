@@ -8,9 +8,11 @@
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asoaib121&color=0e75b6" alt="profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=asoaib121&label=PROFILE+VIEWS&color=0e75b6&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
-
 ---
 <p align="center">
   🔍 A highly motivated <strong>Aspiring Cybersecurity Engineer</strong> actively practicing <strong>Blue Team</strong> and <strong>SOC fundamentals</strong> on platforms like <strong>TryHackMe</strong> .  
