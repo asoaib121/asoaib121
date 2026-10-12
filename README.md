@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=asoaib121"
        alt="Profile Views" />
 </p>
----
+
 <p align="center">
   🔍 A highly motivated <strong>Aspiring Cybersecurity Engineer</strong> actively practicing <strong>Blue Team</strong> and <strong>SOC fundamentals</strong> on platforms like <strong>TryHackMe</strong> .  
   Passionate about strengthening defensive skills, threat detection, and hands-on security labs.
