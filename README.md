@@ -2,15 +2,12 @@
   <img src="./CyberSecurity.png" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-<!--
-<h1 align="center">Hi 👋, I'm Shoaib</h1>
-<h3 align="center">🛡️ Aspiring Cybersecurity Engineer | Blue Team Enthusiast | Bangladesh 🇧🇩</h3>
--->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asoaib121"
        alt="Profile Views" />
 </p>
+
+
 
 <p align="center">
   🔍 A highly motivated <strong>Aspiring Cybersecurity Engineer</strong> actively practicing <strong>Blue Team</strong> and <strong>SOC fundamentals</strong> on platforms like <strong>TryHackMe</strong> .  
