@@ -8,10 +8,8 @@
 -->
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=asoaib121&label=PROFILE+VIEWS&color=0e75b6&style=flat-square"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=asoaib121"
+       alt="Profile Views" />
 </p>
 ---
 <p align="center">
